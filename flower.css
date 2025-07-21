@@ -213,15 +213,46 @@ a {
     width: 594px;
 }
 
+.sale-description h3 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.sale-description h3 .off {
+    color: #E55473;
+}
+
+.sale-description p {
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: rgba(39, 39, 39, 0.6);
+    margin-bottom: 32px;
+}
+
 .sale-img {
     width: 318px;
     height: 420px;
     margin: 100px 0 100px 0;
 }
 
+.sale-description .btn-primary {
+    background: rgb(229, 84, 115);
+    color: #ffffff;
+    padding: 12px 25px;
+    border-radius: 8px;
+    border: none;
+    width: 155px;
+    height: 64px;
+    text-decoration: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
 
-
-
+.sale-description .btn-primary:hover {
+    background-color: #c63a3f;
+}
 
 
 
