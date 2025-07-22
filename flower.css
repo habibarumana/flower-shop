@@ -108,7 +108,7 @@ header {
     max-width: 100%;
     display: flex;
     margin-top: 50px;
-    gap: 30px;
+    gap: 24px;
    justify-content: space-between;
 }
 
